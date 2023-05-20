@@ -253,7 +253,7 @@ void eliminar(struct trabajador _trabajadores[], int* _size)
     {
         printf("Cedula no encontrada.\n");
         v = 0;
-        return 0;
+        
     }
     else
     {
